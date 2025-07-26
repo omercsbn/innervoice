@@ -271,6 +271,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 **Made with ❤️ by Ömer Can Sabun**
+1. İlgili klasöre girin
+```bash
 cd innervoice
 ```
 
